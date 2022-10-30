@@ -1,0 +1,3 @@
+C:/Users/NataYar/CLionProjects/sem2lab4/cmake-build-debug/CMakeFiles/sem2lab4.dir
+C:/Users/NataYar/CLionProjects/sem2lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NataYar/CLionProjects/sem2lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

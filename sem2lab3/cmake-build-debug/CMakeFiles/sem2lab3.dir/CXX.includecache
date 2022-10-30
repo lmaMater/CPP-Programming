@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NataYar/CLionProjects/sem2lab3/CircBuffer.h
+algorithm
+-
+iterator
+-
+
+C:/Users/NataYar/CLionProjects/sem2lab3/algo.h
+stack
+-
+
+C:/Users/NataYar/CLionProjects/sem2lab3/main.cpp
+iostream
+-
+vector
+-
+CircBuffer.h
+C:/Users/NataYar/CLionProjects/sem2lab3/CircBuffer.h
+algo.h
+C:/Users/NataYar/CLionProjects/sem2lab3/algo.h
+

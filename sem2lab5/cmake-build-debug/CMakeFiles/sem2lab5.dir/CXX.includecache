@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NataYar/CLionProjects/sem2lab5/BucketManager.h
+map
+-
+stack
+-
+
+C:/Users/NataYar/CLionProjects/sem2lab5/alloc.h
+iostream
+-
+exception
+-
+memory
+-
+BucketManager.h
+C:/Users/NataYar/CLionProjects/sem2lab5/BucketManager.h
+
+C:/Users/NataYar/CLionProjects/sem2lab5/main.cpp
+alloc.h
+C:/Users/NataYar/CLionProjects/sem2lab5/alloc.h
+vector
+-
+deque
+-
+list
+-
+map
+-
+unordered_map
+-
+ctime
+-
+

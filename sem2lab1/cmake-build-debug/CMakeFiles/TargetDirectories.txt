@@ -1,0 +1,3 @@
+C:/Users/NataYar/CLionProjects/LaboratoryWork1/cmake-build-debug/CMakeFiles/LaboratoryWork1.dir
+C:/Users/NataYar/CLionProjects/LaboratoryWork1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NataYar/CLionProjects/LaboratoryWork1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

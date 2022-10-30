@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NataYar/CLionProjects/sem2lab6/main.cpp
+iostream
+-
+polynomial.h
+C:/Users/NataYar/CLionProjects/sem2lab6/polynomial.h
+
+C:/Users/NataYar/CLionProjects/sem2lab6/polynomial.h
+
